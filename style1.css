@@ -1,0 +1,14 @@
+body{
+    font:'Raleway',sans-serif;
+    color:rgb(2, 22, 2);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+}
+h2{
+    font:600 20.5em'Raleway',sans-serif;
+    color:rgb(4, 35 ,2);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0 em;
+}
